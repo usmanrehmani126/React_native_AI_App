@@ -1,3 +1,5 @@
+Welcome to the React native AI content Generation APP download the APP (https://we.tl/t-3JA62E71EZ)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
